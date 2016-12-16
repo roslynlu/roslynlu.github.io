@@ -304,7 +304,7 @@
 							<li>
 								<div class="project" data-viewport-min-height="100">
 									<div class="project__header vertical-align-helper text-align--s-center" data-viewport-height="100">
-										<div class="header__image" style="background-image: url(img/meteorite4.JPG);"></div>
+										<div class="header__image" style="background-image: url(img/meteorite4.jpg);"></div>
 										<div class="header__content vertical-align--s-middle" style="background-color:rgba(0,0,0,0.7);">
 											<h3 class="header__title subtitled text-color--white uppercase">Student Researcer</h3>
 											<h4 class="header__subtitle text-color--white proxima-nova-regular uppercase">UCLA Department of Earth, Planetary, and Space Sciences</h4>
